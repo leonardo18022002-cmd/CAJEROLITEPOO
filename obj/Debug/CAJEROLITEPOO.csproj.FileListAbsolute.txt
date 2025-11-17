@@ -1,0 +1,7 @@
+C:\Users\jhons\source\repos\CAJEROLITEPOO\obj\Debug\CAJEROLITEPOO.csproj.AssemblyReference.cache
+C:\Users\jhons\source\repos\CAJEROLITEPOO\obj\Debug\CAJEROLITEPOO.csproj.CoreCompileInputs.cache
+C:\Users\jhons\source\repos\CAJEROLITEPOO\bin\Debug\CAJEROLITEPOO.exe.config
+C:\Users\jhons\source\repos\CAJEROLITEPOO\bin\Debug\CAJEROLITEPOO.exe
+C:\Users\jhons\source\repos\CAJEROLITEPOO\bin\Debug\CAJEROLITEPOO.pdb
+C:\Users\jhons\source\repos\CAJEROLITEPOO\obj\Debug\CAJEROLITEPOO.exe
+C:\Users\jhons\source\repos\CAJEROLITEPOO\obj\Debug\CAJEROLITEPOO.pdb
