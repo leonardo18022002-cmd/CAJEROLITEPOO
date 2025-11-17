@@ -31,7 +31,7 @@ namespace CAJEROLITEPOO
             double valor;
             while (!double.TryParse(Console.ReadLine(), out valor))
             {
-                Console.Write("Entrada inválida. Intente nuevamente: ");
+                Console.Write("Entrada inválida. Intente nuevamente: "); //
             }
             return valor;
         }
