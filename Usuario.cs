@@ -23,7 +23,7 @@ namespace CAJEROLITEPOO
             Cuenta = new Cuenta(saldoInicial);
         }
 
-        public bool ValidarAcceso(int id, int pin)
+        public bool ValidarAcceso(int id, int pin) //
         {
             return IdUsuario == id && Pin == pin;
         }
